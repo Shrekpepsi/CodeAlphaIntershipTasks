@@ -5,6 +5,6 @@ Code Alpha App Internship Project Tasks
 
 Run the following commands:
 
-    npx expo install 
+1-    npx expo install 
     
-    npx expo start 
+2-    npx expo start 
