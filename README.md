@@ -6,7 +6,7 @@ Run the following commands:
     
     npx expo start 
 
-# Screenshot 
+# Screenshots
 
 ![WhatsApp Image 2023-09-21 at 2 41 59 AM](https://github.com/Shrekpepsi/RailFoodApp/assets/107950320/5a6b7e66-aead-496a-bacf-2e2dd4e97a5d)  |
 ![WhatsApp Image 2023-09-21 at 2 42 00 AM](https://github.com/Shrekpepsi/RailFoodApp/assets/107950320/61871e1a-498b-4fff-aebc-344146e8bba1)
