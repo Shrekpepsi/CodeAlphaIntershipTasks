@@ -1,20 +1,13 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="UTF-8">
-  <title>React Native Expo Project</title>
+
 </head>
 <body>
 
-<h1>React Native Expo Project</h1>
 
-<p>Welcome to your brand new <strong>React Native Expo</strong> project, initiated using the React Native Expo CLI. This powerful tool makes it easy to create cross-platform mobile applications.</p>
-
-<h2>Getting Started</h2>
+# Getting Started
 
 <p>Before you proceed, ensure you have completed the initial setup for React Native Expo. If not, please follow the <a href="https://docs.expo.dev/">Expo - Getting Started</a> guide.</p>
 
-<h3>Starting the Development Server</h3>
+# Starting the Development Server
 
 <p>To start the development server, run the following command:</p>
 
@@ -22,7 +15,7 @@
 
 <p>When you run this command, the Expo CLI starts a development server and generates a QR code.</p>
 
-<h3>Using Expo Go</h3>
+# Using Expo Go
 
 <p>Expo Go is a free, open-source sandbox for learning and experimenting with React Native on Android and iOS devices. It's not recommended for building production-quality apps or deploying/distributing apps. Instead, use it to experiment and learn.</p>
 
@@ -37,15 +30,11 @@
 
 <p>You can use Expo Go to quickly test your app on real devices and experiment with new ideas.</p>
 
-<h3>Local Development</h3>
+# Local Development
 
 <p>For local development, refer to the <a href="https://docs.expo.dev/guides/local-app-development/">Local App Development guide</a>. This guide provides essential information to optimize your development workflow.</p>
 
-<h4>Local Compilation</h4>
-
-<p>For local development, refer to the <a href="https://docs.expo.dev/guides/local-app-development/">Local App Development guide</a>. This guide provides essential information to optimize your development workflow and covers local app compilation.</p>
-
-<p>Local App Compilation</p>
+Local App Compilation</p>
 
 <p>To build your project locally, you can use compile commands from Expo CLI, which generate the <code>android</code> and <code>ios</code> directories:</p>
 
@@ -55,22 +44,22 @@
 
 <p>These commands will compile your app for Android and iOS, respectively.</p>
 
-<h2>Congratulations! :tada:</h2>
+Congratulations! :tada:
 
 <p>You've successfully initiated and customized your React Native Expo App and are ready to explore it with Expo Go. :partying_face:</p>
 
-<h3>What's Next?</h3>
+# What's Next?
 
 <ul>
   <li>If you want to integrate this React Native Expo code into an existing application, consult the <a href="https://docs.expo.dev/workflow/configuration/">Configuration guide</a>.</li>
   <li>If you're eager to delve deeper into React Native Expo, explore the <a href="https://docs.expo.dev/tutorial/introduction/">Introduction to React Native Expo</a> guide.</li>
 </ul>
 
-<h2>Troubleshooting</h2>
+# Troubleshooting
 
 <p>If you encounter any issues, please refer to the <a href="https://docs.expo.dev/build-reference/troubleshooting/">Troubleshooting</a> page for guidance.</p>
 
-<h2>Learn More</h2>
+# Learn More
 
 <p>To deepen your understanding of React Native Expo, here are some valuable resources:</p>
 
